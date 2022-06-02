@@ -1,0 +1,24 @@
+{
+  "name": "https://github.com/Matheus-santos7",
+  "version": "2.0.0",
+  "description": "Personal website",
+  "main": "index.js",
+  "scripts": {
+    "server": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Matheus-santos7/portifolio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-santos7/portifolio/issues"
+  },
+  "homepage": "https://github.com/Matheus-santos7/portifolio",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
